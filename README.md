@@ -1,5 +1,5 @@
 # ML
-## Assignments of Machine Learning course - Fall 2023
+### Computer Assignments
 
 HW1: KNN & Decision Tree
 
